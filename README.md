@@ -1,2 +1,3 @@
 # Apple2
- A apple 2 simulator
+ An Apple 2 simulator
+ Winner of Apple's 2020 Swift Student Challenge
